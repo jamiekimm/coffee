@@ -1,0 +1,40 @@
+
+h1{
+  font-size: 60px;
+  background-color:olive;
+}
+td{
+  font-size: 40px;
+}
+.topnav {
+    background-color:black;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color:white;
+    text-align: center;
+    padding: 10px 167px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.topnav a:hover {
+    background-color:black;
+    color: blue;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+h2{
+  font-size:30px
+  color:
+
+}
+body{
+  background=color:kakhi;
+}

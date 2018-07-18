@@ -1,0 +1,8 @@
+room_num = {'john': 425, 'tom': 212}
+room_num['john'] = 645
+print (room_num['tom'])
+room_num['isaac'] = 345
+print (room_num.keys())
+print ('isaac' in room_num)
+i = -1
+while True:
